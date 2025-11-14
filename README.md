@@ -4,7 +4,7 @@
 Olaa!!, meu nome é Klecius Thiago, e tenho 20 anos 👋
 
 - 🔭 Procurando um primeiro emprego
-- 📚 Cursando Analise e Desenvolvimentos de Sistemas na universidade Uninassau
+- 📚 Cursando Analise e Desenvolvimentos de Sistemas na Universidade Uninassau
 - 👨‍💻 Estudando as linguagens abaixo:
 <p align="left">
     <a href="https://github.com/zeusdeusdotrovao">
